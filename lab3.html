@@ -1,0 +1,120 @@
+<html>
+	<head>
+	<title></title>
+		<meta charset="utf-8"/>
+	</head>
+	
+	<body>
+	<table border="4"bordercolor="black">
+	<form action="http://10.7.1.98/taozhuo/form_data.php" method="get">
+	<tr>
+		<td>用户名：</td>  
+		<td colspan="4" ><input type="text"name="yonghuming"/></td>
+	</tr>
+	<tr>
+		<td>密码：</td>
+		<td colspan="4"><input type="password"name="pass"></td>
+	</tr>
+	<tr>
+		<td>确认密码：</td>
+		<td colspan="4"> <input type="password"name="pass"></td>
+	</tr>
+	<tr>
+		<td>姓别：</td>
+		<td colspan="4" ><input type="radio"value="Male"name="sex"checked="checked"/>男
+		<input type="radio"value="feMale"name="sex"/>
+		女</td>
+	</tr>
+	<tr>
+		<td>生日：</td>
+		<td colspan="4" >
+		<select>
+			<option>公历</option>
+			<option>阳历</option>
+		</select>
+		<select>
+			<option selected="selected">年</option>
+			<option>1997</option>
+			<option>1998</option>
+			<option>1999</option>
+		</select>
+		<select>
+			<option selected="selected">月</option>
+			<option>1</option>
+			<option>2</option>
+			<option>8</option>
+			<option>10</option>
+		</select>
+		<select>
+			<option selected="selected">日</option>
+			<option>1</option>
+			<option>2</option>
+		</select>
+		</td>
+	<tr>
+		<td>所在地：</td>
+		<td colspan="4">
+		<select>
+			<option selected="selected">中国</option>
+			<option>美国</option>
+		</select>
+		<select>
+			<option selected="selected">河北</option>
+			<option>杭州</option>
+		</select>
+		<select>
+			<option>石家庄</option>
+		</select>
+		</td>
+	</td >
+	<tr>
+		<td>验证码：</td>
+		<td colspan="4"><input type="text"name="
+		yanzhengma"/>
+		<input type="image"src="image.3/yanzhengma.jpg"height="20"weidth="40"/>
+		</td>
+	</tr>
+	<tr>
+		<td>证件类型：</td>
+		<td cosplan="4">
+		<select>
+			<option selected="selected">身份证</option>
+			option>
+			<option>港澳台居民身份证</option>
+		</select>
+	</td>
+	<tr>
+		<td>证件号：</td>
+		<td colspan="4"></td>
+	</tr>
+	<tr>
+		<td>爱好：</td>
+		<td colspan="4">
+		<input type="checkbox"name="hobby"value="音乐"/>音乐
+		<input type="checkbox"checked="checked"name="hobby"value="读书"/>读书
+		<input type="checkbox"checked="checked"name="hobby"value="跳舞"/>跳舞
+		<input type="checkbox"name="hobby"value="下棋"/>下棋
+		<input type="checkbox"name="hobby"value="其他"/>其他</td>
+	</tr>
+	<tr>
+		<td>说明：</td>
+		<td colspan="4">
+		<textarea rows="3"cols="30"></textarea>
+		</td>
+	</tr>
+	<tr>
+		<td>上传头像:</td>
+		<td colspan="4">
+		<input type="file"name="files"/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="5"align="center">
+		<input type="submit"value="提交"name="sub"/>
+		<input type="reset"value="重置"name="res"/>
+		<input type="button"value="按钮"name="but"/>
+		</td>
+	</tr>
+	</form>
+	</body>
+</html>
