@@ -1,0 +1,30 @@
+#title{background-image:url(../image/left-nav-title.gif);
+			background-repeat:no-repeat;
+			background-position:left top;
+			padding-top:12px;
+			color:white;
+			text-align:center;
+			
+			width:183px; height:35px;}
+.menu{background-image:url(../image/bj.png);margin-left:40px;padding-top:5px;background-position:-3em 90%;
+			background-repeat:no-repeat;
+			background-position:left top;
+			width:200px; height:200px;}
+.a1{color:red;
+			}
+ul{list-style-type:none;width:183px;
+			list-style-image:url(../image/left-cur.gif);
+			background-image:url(../image/left-nav-text.gif);
+			background-repeat:no-repeat
+			}
+a:link{text-decoration:none;color:black;}
+li{ width:183px;
+			margin-left:40px;
+			height:30px;
+			padding-top:5px;
+			background-image:url(../image/left-nav-item.gif);
+			
+			background-position:-3em 90%;}
+.a2{background-image:url(../image/left-nav-bottom.gif);
+			width:183px;height:35px;
+			background-repeat:no-repeat;}

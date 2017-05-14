@@ -1,0 +1,5 @@
+在daohang.css中插入图片，误认为daohang.css和image在同一级，应将image前面加../
+将daohang3.css误写为danghang3.css,致使样式在html中呈现不出。
+认识到vertical-align是设置元素的垂直对齐方式的属性。
+认识到float:left;是定义元素在哪个方向浮动的属性。
+

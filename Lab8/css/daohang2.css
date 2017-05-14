@@ -1,0 +1,22 @@
+.menu{background-image:url(../image/bj.png);margin-left:40px;padding-top:5px;background-position:-3em 90%;
+			background-repeat:no-repeat;
+			background-position:left top;
+			width:200px; height:300px;}
+#title{background-image:url(../image/header.png);
+			background-repeat:no-repeat;
+			background-position:left top;
+			padding-top:12px;
+			color:white;
+			text-align:center;width:183px; height:50px;
+			}
+.a1{background-image:url(../image/lvbiaoti.png);
+			width:183px;height:35px;
+			background-repeat:no-repeat;
+			text-align:center;
+			list-style-type:none;
+			color:white;}
+.a2{background-image:url(../image/baibiaoti.png);
+			width:183px;height:35px;
+			background-repeat:no-repeat;
+			text-align:center;
+			list-style-type:none;}
