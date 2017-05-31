@@ -1,0 +1,110 @@
+*{margin:0px;padding:0px;}
+
+html{font-size:12px;color:#522a06;padding:0px;
+	font-family:'宋体';border:none;
+	list-style-type:none;}
+
+body{background-image:url(../image/bodybg.gif);}
+#header{height:205px;
+	background-image:url(../image/bg.gif);
+	background-position:50% 0%;
+	background-repeat:no-repeat;}
+#tupian{width:1000px;height:164px;
+      background-position:center;}
+.img{margin-left:150px;margin-top:38px;
+	}
+
+#nav{height:40px;background-image:
+	url(../image/nav.jpg);}
+.nav-body{width:1000px;text-align:center;
+		margin-left:150px;}
+
+.daohanglan{width:800px;height:40px;float:left;margin-top:10px;}
+.a2{color:white;font-weight:bolder;}
+a:hover{color:#f9f603;
+		text-decoration:none;}
+a:link{
+		text-decoration:none;}
+.a1{color:#f9f603;font-weight:bolder;}
+.a3{width:140px;height:19px;
+	background-color:#f8f5ee;}
+.a4{width:44px;height:21px;background-color:#000;
+	color:#fff;border:1px solid #f8f5ee;}
+.sousuokuang{float:left;margin-top:10px;}
+#content{width:1000px;clear:left right;
+	margin-left:180px;}
+#content-top{height:243px;}
+
+.news-picture{width:324px;height:243px;
+		background-image:url(../image/news_bg.png);
+		float:left;}
+.a6{width:300px;height:200px;margin:10px 10px;}
+.a5{width:300px;height:22px;text-align:center;height:100px;}
+
+
+.news-list{width:330px;float:left;}
+
+.a8{float:right;}
+.a9{float:left;margin-left:18px;}
+.a10{margin-left:20px;float:left;width:265px;}
+.c5{float:left;width:45px;}
+.c6{margin-top:15px;margin-left:10px;}
+.c12{width:75px;float:left;}
+.c7{width:330px;height:100px;}
+.c8{margin-top:15px;}
+.a11{float:right;}
+.news-announce{width:277px;margin-top:5px;
+	float:left;height:243px;margin-left:20px;}
+.a12{background-image:url(../image/board_bg.png);
+	width:277px;height:205px;}
+.c10{margin-left:25px;margin-top:8px;}
+.c13{float:left;width:265px; margin:0px;}
+.a13{text-align:center;}
+.academic{width:340px;height:240px;}
+.b1{height:54px;float:left;}
+.b2{float:left;text-align:left;margin-left:10px;}
+.d1{height:240px;width:715px;}
+#content-bottom-left{width:715px;float:left;}
+.book-news{width:340px;margin:0px;float:left;float:top;
+	position:relative;bottom:240px;}
+.d2{margin-top:50px;margin-left:10px;}
+.b3{height:54px;float:left;width:340px;
+	background-image:url(../image/book_news.png);}
+.c11{float:right;
+	
+	height:54px;}
+.fengcai{width:700px;}
+.b4{height:54px;margin:0px;}
+.b5{height:136px;padding:20px;float:left;
+	background-image:url(../image/fengcai_bg2.png);
+	width:600px;height:100px;margin-top:60px;}
+.b6{float:left;height:100px;margin-top:10px;
+	display:block;margin-left:50px;
+	}
+.d3{position:relative;bottom:13px;float:left;height:100px;margin-top:10px;
+	display:block;}
+.d4{position:relative;bottom:26px;float:left;height:100px;margin-top:10px;
+	display:block;}
+.d5{position:relative;bottom:39px;float:left;height:100px;margin-top:10px;
+	display:block;margin-right:50px;}
+#content-bottom-right{width:280px;margin-top:20px;
+	float:right;}
+.b7{background-image:url(../image/show_bg.png);
+	width:362px;background-repeat:no-repeat;text-align:center;
+	height:500px;}
+.b8{width:224px;text-align:center;margin:20px;
+	float:left;}
+.b9{float:left;width:224px;margin:0px 20px 20px 20px;}
+.b10{color:red;};
+.b11{float:right;position:relative;right:20px;top:400px;}
+#footer{height:105px;clear:both;
+	background-image:url(../image/foot.gif);
+
+	background-repeat:no-repeat;
+	}
+.c1{width:500px;margin:20px auto;}
+.c1 ul li{float:left;text-align:center;list-style:none;}
+.c1 ul li a{font-weight:bolder;color:black;}
+.c2{width:550px;margin:5px auto;}
+.c3{width:350px;margin:5px auto;}
+.c4{width:300px;margin:5px auto;}
