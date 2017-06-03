@@ -1,0 +1,46 @@
+*{margin:0px auto;padding:0px;border:none;
+	font-family:'宋体';list-style-type:none;}
+body{font-size:12px;background-image:
+	url(../images/bodybg.gif);
+	background-repeat:repeat-x;}
+a:link{text-decoration:none;color:black;}
+a:hover{text-decoration:underline;}
+
+#header{height:205px;
+	background-image:url(../images/bg.gif);
+	background-position:50% 0%;
+	background-repeat:no-repeat;}
+#tupian{width:1000px;height:164px;
+      background-position:center;}
+.img{margin-left:50px;margin-top:38px;
+	}
+
+#nav{height:40px;background-image:
+	url(../images/nav.jpg);}
+.nav-body{width:1000px;text-align:center;
+		margin-left:150px;}
+
+.daohanglan{width:800px;height:40px;float:left;margin-top:10px;}
+.a2{color:white;font-weight:bolder;}
+a:hover{color:#f9f603;
+		text-decoration:none;}
+a:link{
+		text-decoration:none;}
+.a1{color:#f9f603;font-weight:bolder;}
+.a3{width:140px;height:19px;
+	background-color:#f8f5ee;}
+.a4{width:44px;height:21px;background-color:#000;
+	color:#fff;border:1px solid #f8f5ee;}
+.sousuokuang{float:left;margin-top:10px;}
+
+#footer{height:105px;clear:both;
+	background-image:url(../image/foot.gif);
+
+	background-repeat:no-repeat;
+	}
+.d1{width:500px;margin:20px auto;}
+.d1 ul li{float:left;text-align:center;list-style:none;}
+.d1 ul li a{font-weight:bolder;color:black;}
+.d2{width:550px;margin:5px auto;}
+.d3{width:350px;margin:5px auto;}
+.d4{width:300px;margin:5px auto;}
