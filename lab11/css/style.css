@@ -1,0 +1,9 @@
+ .image img{display:inline; margin:2px 2px 8px 2px;
+ 	width:200px;
+ 	height:160px;}
+ .image{border:1px solid #bebebe;margin-left:5px;}
+ .image{float:left;}
+ 
+ .image a:link img{opacity:0.5;}
+  .image a:hover img{border:1px solid #333333;opacity:1;}
+ .a1{margin-left:80px;margin-bottom:5px;font-size:12px;}
