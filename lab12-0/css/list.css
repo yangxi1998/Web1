@@ -1,0 +1,22 @@
+#content{background-image:url(../image/b1.jpg);
+	width:100%;float:left;height:705px;}
+.a6{color:#855E42;margin-top:20px;list-style-type:none;
+	font-family:'KaiTi';font-size:18px;}
+#content a:link{font-family:'KaiTi';font-size:18px;color:#855E42;}
+.bread{height:30px;line-height:30px;margin-left:43px;color:#855E42;}
+.f3{color:black;}
+.list{margin-left:20px;width:600px;height:300px;}
+.a8{color:#855E42;margin-top:20px;list-style-type:none;
+	font-family:'KaiTi';font-size:18px;}
+.list-left{width:300px;float:left;}
+.list-right{width:150px;float:left;}
+.a9{margin-top:38px;color:#855E42;list-style-type:none;
+	font-family:'KaiTi';font-size:18px;}
+.wenzi{height:300px;width:80px;float:left;}
+.a10{margin-top:10px;color:#855E42;list-style-type:none;
+	font-family:'KaiTi';font-size:50px;}
+.list1{margin-right:20px;width:600px;height:300px;float:right;
+	margin-top:20px;}
+.list-left1{width:300px;float:right;}
+.list-right1{width:150px;float:right;}
+.wenzi1{height:300px;width:80px;float:right;}

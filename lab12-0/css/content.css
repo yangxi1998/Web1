@@ -1,0 +1,44 @@
+#content{background-image:url(../image/d3.jpg);
+	width:100%;float:left;height:705px;}
+.left{width:670px;height:700px;float:left;margin-top:30px;}
+.bread{height:30px;line-height:30px;margin-left:43px;color:#855E42;}
+.f3{color:black;}
+.content-left-top{background-image:url(../image/c2.jpg);
+	width:590px;height:450px;float:left;margin-top:5px;
+	margin-left:20px;}
+
+.b{width:150px;float:left;height:450px;}
+.b1{margin-top:60px;margin-left:60px;float:left;}
+.b2{margin-top:10px;margin-left:60px;float:left}
+.b3{float:right;width:350px;height:450px;
+	margin-top:80px;margin-right:35px;}
+.p1	{font-family:'KaiTi';color:#886600;font-weight:bolder;font-size:18px;
+	text-indent:2em;}
+.content-left-bottom{width:600px;height:150px;float:left;}
+.b4{background-image:url(../image/f1.jpg);float:left;
+	width:300px;height:150px;}
+.p2{color:#00DD00;font-size:30px;font-family:'KaiTi';font-weight:bolder;
+	margin-left:70px;margin-top:30px;}
+.p3{color:#5555FF;font-size:30px;font-family:'KaiTi';font-weight:bolder;
+	margin-left:120px;}
+.b5{float:left;}
+.right{height:600px;width:}
+.content-right-top{background-image:url(../image/f4.jpg);
+	width:500px;height:600px;float:right;margin-top:50px;
+	margin-right:30px;}
+.c1{width:150px;float:right;height:450px;}
+.c2{margin-top:80px;margin-right:20px;float:right;}
+.c3{margin-top:10px;margin-right:20px;float:right;}
+.c4{float:right;width:280px;height:500px;
+	margin-top:70px;margin-right:15px;}
+.content-right{float:left;background-image:url(../image/f3.jpg);width:100px;height:350px;
+	margin-top:100px;margin-left:20px;}
+.p4{color:#00DD00;font-size:30px;font-family:'KaiTi';font-weight:bolder;
+	margin-left:40px;margin-top:30px;}
+.p5{color:#5555FF;font-size:30px;font-family:'KaiTi';font-weight:bolder;
+	margin-left:60px;}
+.f2{height:60px;width:300px;float:left;margin-left:20px;}
+.f4{border:1px solid yellow;}
+.f5{float:left;width:100px;height:60px;margin-left:30px;}
+.f6{color:#5555FF;margin-left:10px;font-family:'KaiTi';}
+.f5 ul li{list-style-type:square;color:#886600;font-family:'KaiTi';}
